@@ -1,0 +1,23 @@
+{
+  "name": "react_course",
+  "version": "1.0.0",
+  "description": "The course of React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavadevelopers/react_course.git"
+  },
+  "keywords": [
+    "react",
+    "study"
+  ],
+  "author": "Vyacheslav Mukhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavadevelopers/react_course/issues"
+  },
+  "homepage": "https://github.com/slavadevelopers/react_course#readme"
+}

@@ -1,2 +1,2 @@
-# react_course
+# React course
 The course of React
