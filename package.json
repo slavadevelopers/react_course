@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/slavadevelopers/react_course/issues"
   },
-  "homepage": "https://github.com/slavadevelopers/react_course#readme"
+  "homepage": "https://github.com/slavadevelopers/react_course#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
 }
